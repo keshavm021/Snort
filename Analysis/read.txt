@@ -1,1 +1,4 @@
-Will upload the data on ElasticSearch and create visualisations and upload screenshots here.
+The malware data was collected from https://github.com/tatsu-i/malware-traffic-analysis.net
+
+We can read the pcap type files through wireshark and exported in json format.
+We have refined the data and uploaded on ElasticSearch and created visualization.
